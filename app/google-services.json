@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "938865189684",
+    "firebase_url": "https://truckassist-de6eb.firebaseio.com",
+    "project_id": "truckassist-de6eb",
+    "storage_bucket": "truckassist-de6eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938865189684:android:105dc39eb95dc918",
+        "android_client_info": {
+          "package_name": "com.example.truckassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938865189684-56u15nl4e4p9bm62jm2c1n2hea8ka3ul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.truckassist",
+            "certificate_hash": "7c1cbac71291df22d3abf698e98f9946f03bdd75"
+          }
+        },
+        {
+          "client_id": "938865189684-psvih9i3645tan3jfsb7m9ocjjf7fpb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXp65m24jHnb1wwDEEfsSmKXoOY1kUOoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938865189684-psvih9i3645tan3jfsb7m9ocjjf7fpb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
